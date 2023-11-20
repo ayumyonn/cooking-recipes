@@ -13,5 +13,7 @@
 Ingredientsのカレー粉以外を一口サイズに切る。
 
 ## Step2
+Step1を煮込む
+
 
 
