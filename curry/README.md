@@ -1,4 +1,4 @@
-# Curry 🍛
+# 🍛 Curry 🍛
 
 ## Ingredients
 
