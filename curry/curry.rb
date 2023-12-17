@@ -1,11 +1,12 @@
 class Cooking 
 
-    def Ingredients
+    def Ingredient   
+        "じゃがいも"
     end
 
-    def procedure
+    def procedure   
     end
 
-    curry = Cooking.new
+ curry = Cooking.new
 
 end
