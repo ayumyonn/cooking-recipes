@@ -1,2 +1,1 @@
 # Troro nabe
-git
