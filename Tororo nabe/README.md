@@ -1,4 +1,5 @@
 # 🍲Troro nabe🥔
+![Alt text](image.png)
 
 ## Ingredients
 
