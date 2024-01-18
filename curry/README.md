@@ -1,4 +1,5 @@
 # 🍛 Curry 🍛
+![Alt text](image.png)
 
 ## Ingredients
 
