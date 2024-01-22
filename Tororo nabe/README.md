@@ -53,21 +53,3 @@
 参考にしたお店は ＠坐離宮 です🎵
 
 ![Alt text](image-1.png)
-
-
-![images](https://github.com/ayumyonn/cooking-recipes/assets/146798257/376598ca-eac0-4b2d-b353-65baf746ba53)
-
-![images](https://github.com/ayumyonn/cooking-recipes/assets/146798257/84b5373f-db35-428d-9e29-23e3e3ba0d8d)
-
-![images](https://github.com/ayumyonn/cooking-recipes/assets/146798257/5fb6977a-a24f-485e-a432-4ac33c2b57f5)
-
-![images](https://github.com/ayumyonn/cooking-recipes/assets/146798257/6477c03b-5aae-4f5b-8dbb-e48796581e39)
-
-
-
-
-
-
-
-
-
