@@ -1,4 +1,6 @@
 # GAPAO RICE
+![alt text](image.png)
+
 
 ## Ingredients
 - ごはん(タイ米)
